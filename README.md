@@ -5,6 +5,7 @@ A console-based Criminal Management System developed using Python and MySQL to m
 - Python
 - MySQL
 <b>
+
 ## Features
 - Add criminal records
 - Search records
